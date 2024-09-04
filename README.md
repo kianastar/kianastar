@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kianastar
 - 👀 I’m interested in learning Python for use in automation and data management.
-- 🌱 I’m currently learning Python, Kotlin and Spark.
+- 🌱 I’m currently learning Python, PostGRESQL and Development on AWS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email via my username's gmail.
 
